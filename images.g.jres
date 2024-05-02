@@ -1,0 +1,17 @@
+{
+    "F-$?[H:[w@nH)Zvh%!E(": {
+        "data": "hwQQABAAAAAAAAANAAAAAAAA0N3dAAAAAAAN0NoAAAAAAA3Q2g0AAAAAANCqDQAAAADd3aoNAADQ3a2qqg0AAPD9ra3aDQAA0P2tqt0AAADw/d3dDQAAAAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Plyear 1"
+    },
+    "kNu~+qZ=hl3S;UJT^$rf": {
+        "data": "hwQQABAAAAAAAAANAAAAAAAA0N3dAAAAAAAN0NcAAAAAAA3Q1w0AAAAAANB3DQAAAADd3XcNAADQ3X13dw0AAPD9fX3XDQAA0P19d90AAADw/d3dDQAAAAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Enemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
